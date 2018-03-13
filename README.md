@@ -1,2 +1,3 @@
-# legal
-Tapkey's legal documents.
+# Tapkey's Legal Documents
+
+This repository contains legal documents of Tapkey.
