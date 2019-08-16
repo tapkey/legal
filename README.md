@@ -10,3 +10,4 @@ All files are HTML fractions that have to be included in a HTML 5 document's bod
 ## Directory Structure
 * `pp` contains Tapkey's Privacy Policy
 * `tnc` contains Tapkey's Terms and Conditions
+* `tnc_integrators` contains Tapkey's Terms and Conditions for parties that wish to integrate with Tapkey products
